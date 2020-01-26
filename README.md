@@ -1,8 +1,8 @@
-# AzzaModsTranslations
-This repo contains the public translations for the AzzaFortysix Mod Launcher that anyone can contribute to.
+# AzzaFortysix Mod Launcher Translations
+This repo contains the public translations for the [AzzaFortysix Mod Launcher](https://AzzaMods.com/download) that anyone can contribute to.
 
 ### What is this?
- - This repo contains translations for the AzzaFortysix Mod Launcher which is crowd sourced by people like you!
+ - This repo contains translations for the [AzzaFortysix Mod Launcher](https://AzzaMods.com/download) which is crowd sourced by people like you!
  - Anyone can create a pull request to add translations for other languages.
 
 ### How do I contribute?
