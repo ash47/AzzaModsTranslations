@@ -1,17 +1,17 @@
 {
-	"url": "AzzaMods.com",
-	"change-locale": "Изменить язык",
-	"navbar_home": "Дом",
-	"navbar_mods": "Модификации",
-	"navbar_download": "Скачать",
-	"navbar_link_patreon": "Ссылка Патреон Аккаунт",
-	"navbar_discord": "диссонанс",
-	"navbar_patreon": "Patreon",
-	"navbar_admin": "Администратор",
-	"navbar_profile": "Профиль",
-	"navbar_logout": "Выйти",
-	"navbar_link_launcher": "Link Launcher",
-	"navbar_login_via_patreon": "Войти через Patreon",
-	"navbar_toggle_menu": "Переключить меню"
-
+    "url": "AzzaMods.com",
+    "change-locale": "Изменить язык",
+    "navbar_home": "Дом",
+    "navbar_mods": "Модификации",
+    "navbar_download": "Скачать",
+    "navbar_link_patreon": "Ссылка Патреон Аккаунт",
+    "navbar_discord": "диссонанс",
+    "navbar_patreon": "Patreon",
+    "navbar_admin": "Администратор",
+    "navbar_profile": "Профиль",
+    "navbar_logout": "Выйти",
+    "navbar_link_launcher": "Link Launcher",
+    "navbar_login_via_patreon": "Войти через Patreon",
+    "navbar_toggle_menu": "Переключить меню",
+    "sidebar_mod_manager": "模组经理"
 }

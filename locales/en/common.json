@@ -12,6 +12,7 @@
 	"navbar_logout": "Logout",
 	"navbar_link_launcher": "Link Launcher",
 	"navbar_login_via_patreon": "Login via Patreon",
-	"navbar_toggle_menu": "Toggle Menu"
+	"navbar_toggle_menu": "Toggle Menu",
 
+	"sidebar_mod_manager": "Mod Manager"
 }

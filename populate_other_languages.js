@@ -8,7 +8,7 @@ const mainLanguage = 'en';
 
 const otherLanguages = [
 	'ru',
-	'zh-cn'
+	'zh'
 ];
 
 const mainLanguageDir = path.join(startingPath, mainLanguage);
@@ -33,8 +33,8 @@ otherLanguages.forEach((language) => {
 		} else {
 			// If it does exist, search for missing keys and add them
 			try {
-				const ourLanguageFile = JSON.parse(languagePath);
-				const referenceLanguageFile = JSON.parse(referencePath);
+				const ourLanguageFile = JSON.parse(fs.readFileSync(languagePath));
+				const referenceLanguageFile = JSON.parse(fs.readFileSync(referencePath));
 
 				let madeChange = false;
 
