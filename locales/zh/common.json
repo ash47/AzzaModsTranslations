@@ -13,5 +13,6 @@
     "navbar_link_launcher": "链接启动器",
     "navbar_login_via_patreon": "通过Patreon登录",
     "navbar_toggle_menu": "切换菜单",
-    "sidebar_mod_manager": "模组经理"
+    "sidebar_mod_manager": "模组经理",
+    "loading": "载入中..."
 }

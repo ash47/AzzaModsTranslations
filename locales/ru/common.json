@@ -13,5 +13,6 @@
     "navbar_link_launcher": "Link Launcher",
     "navbar_login_via_patreon": "Войти через Patreon",
     "navbar_toggle_menu": "Переключить меню",
-    "sidebar_mod_manager": "模组经理"
+    "sidebar_mod_manager": "模组经理",
+    "loading": "Loading..."
 }
