@@ -1,15 +1,15 @@
 {
-	"page_title": "Link Launcher to Patreon Account",
+	"page_title": "Liên kết Trình khởi chạy đến Tài khoản Patreon",
 
-	"heading_link_launcher": "Link Mod Launcher to Patreon Account",
-	"why_link": "Linking your Patreon Account to the mod launcher will allow you to gain access to your Patreon only features such as accessing mods early.",
+	"heading_link_launcher": "Liên kết Mod Launcher với tài khoản Patreon",
+	"why_link": "Liên kết Tài khoản Patreon của bạn với trình khởi chạy mod sẽ cho phép bạn có quyền truy cập vào các tính năng chỉ dành cho Patreon của mình, chẳng hạn như truy cập các mod sớm.",
 
-	"already_linked": "Your mod launcher is already linked.",
-	"how_to_get_code": "Open your web browser and visit <0>AzzaMods.com</0> and access the <0>Link Patreon Account</0> section to get your link code.",
-	"your_code": "Your Link Code:",
-	"button_link_account": "Link Account",
-	"restricted_mod_launcher": "This page should only be accessed from within the Mod Launcher.",
+	"already_linked": "Trình khởi chạy mod của bạn đã được liên kết.",
+	"how_to_get_code": "Mở trình duyệt web của bạn và truy cập <0>AzzaMods.com</0> và truy cập phần <0>Liên kết tài khoản Patreon</0> để lấy mã liên kết của bạn.",
+	"your_code": "Mã liên kết của bạn:",
+	"button_link_account": "Liên kết tài khoản",
+	"restricted_mod_launcher": "Trang này chỉ nên được truy cập từ bên trong Mod Launcher.",
 
-	"first_enter_code": "You need to enter a link code first.",
-	"err_unknown": "An unknown error occurred while linking your account."
+	"first_enter_code": "Bạn cần nhập mã liên kết trước.",
+	"err_unknown": "Một lỗi không xác định xảy ra trong khi liên kết tài khoản của bạn."
 }

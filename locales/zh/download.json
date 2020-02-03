@@ -9,8 +9,8 @@
 	"prerequisites": "先决条件/要求：",
 	
 	"dependency_info": "需要下载并安装以下软件包。 这些是非常常见的程序包，如果您使用的是Windows 10，则可能已经安装了这些程序包。可以使用下面的链接从Microsoft下载它们：",
-	"dep_dotnet": ".NET Framework 4.5.2-运行时",
-	"dep_visualstudio": "适用于Visual Studio 2015的Visual C ++可再发行组件-x86",
+	"dep_dotnet": ".NET Framework 4.5.2 - Runtime",
+	"dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
 
 	"heading_about": "关于Mod启动器",
 	"info_update": "Mod Launcher会自动管理更新，并在检测到新版本时通知您，以便您保持最新状态。",

@@ -1,32 +1,32 @@
 {
-	"side_heading": "Your Account",
-	"heading_profile": "Profile",
-	"heading_public_profile": "Your Public Profile",
+	"side_heading": "Tài khoản của bạn",
+	"heading_profile": "Hồ sơ",
+	"heading_public_profile": "Hồ sơ công khai của bạn",
 
-	"hi_name": "Hi {{name}},",
+	"hi_name": "Chào {{name}},",
 
-	"profile_public": "Your profile is currently configured to be visible to the public.",
-	"profile_private": "Your profile is only visible to you and administrators.",
+	"profile_public": "Hồ sơ của bạn hiện đang được cấu hình để hiển thị cho công chúng.",
+	"profile_private": "Hồ sơ của bạn chỉ hiển thị cho bạn và quản trị viên.",
 
-	"make_profile_private": "Make My Profile Private",
-	"make_profile_public": "Make My Profile Public",
+	"make_profile_private": "Đặt hồ sơ cá nhân của tôi",
+	"make_profile_public": "Công khai hồ sơ của tôi",
 
-	"view_profile_message": "You can view your public profile <0>here</0>.",
+	"view_profile_message": "Bạn có thể xem hồ sơ công khai của mình <0>tại đây</0>.",
 
-	"no_username": "No Username Selected",
-	"heading_get_username": "Let's get you a username.",
-	"heading_update_username": "Update your username?",
-	"current_username": "Your current username is {{username}}.",
-	"username_requirements": "Usernames can be 3 - 32 characters long and consist of letters and numbers. Your username can be changed again after 24 hours.",
-	"username_limit_warning": "You can only change your username once in a 24 hour period. Please check back later if you want to change your username again.",
-	"username_limit_exceed": "You can change your username once every 24 hours.",
-	"heading_username": "Username",
-	"invalid_username": "Please choose a valid username.",
-	"valid_username": "Looks good!",
-	"choose_username": "Choose Username",
+	"no_username": "Không có tên người dùng được chọn",
+	"heading_get_username": "Hãy cho bạn một tên người dùng.",
+	"heading_update_username": "Cập nhật tên người dùng của bạn?",
+	"current_username": "Tên người dùng hiện tại của bạn là {{username}}.",
+	"username_requirements": "Tên người dùng có thể dài 3 - 32 ký tự và bao gồm các chữ cái và số. Tên người dùng của bạn có thể được thay đổi lại sau 24 giờ.",
+	"username_limit_warning": "Bạn chỉ có thể thay đổi tên người dùng của mình một lần trong khoảng thời gian 24 giờ. Vui lòng kiểm tra lại sau nếu bạn muốn thay đổi tên người dùng của bạn một lần nữa.",
+	"username_limit_exceed": "Bạn có thể thay đổi tên người dùng của mình sau mỗi 24 giờ.",
+	"heading_username": "tên tài khoản",
+	"invalid_username": "Xin hãy chọn một tên truy nhập hợp lệ.",
+	"valid_username": "Có vẻ tốt!",
+	"choose_username": "Chọn tên người dùng",
 
-	"err_invalid_characters": "Your username contains invalid characters. Valid characters are letters and numbers only.",
-	"err_too_short": "Your username is too short. It needs to be at least 3 characters long.",
-	"err_too_long": "Your username is too long. It needs to be no more than 32 characters long.",
-	"err_unknown": "An unknown error occurred while updating your username."
+	"err_invalid_characters": "Tên người dùng của bạn chứa các ký tự không hợp lệ. Ký tự hợp lệ chỉ là chữ cái và số.",
+	"err_too_short": "Tên người dùng của bạn quá ngắn. Nó cần phải dài ít nhất 3 ký tự.",
+	"err_too_long": "Tên người dùng của bạn quá dài. Nó cần dài không quá 32 ký tự.",
+	"err_unknown": "Một lỗi không xác định xảy ra trong khi cập nhật tên người dùng của bạn."
 }
