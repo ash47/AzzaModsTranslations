@@ -1,0 +1,32 @@
+{
+	"side_heading": "Your Account",
+	"heading_profile": "Profile",
+	"heading_public_profile": "Your Public Profile",
+
+	"hi_name": "Hi {{name}},",
+
+	"profile_public": "Your profile is currently configured to be visible to the public.",
+	"profile_private": "Your profile is only visible to you and administrators.",
+
+	"make_profile_private": "Make My Profile Private",
+	"make_profile_public": "Make My Profile Public",
+
+	"view_profile_message": "You can view your public profile <0>here</0>.",
+
+	"no_username": "No Username Selected",
+	"heading_get_username": "Let's get you a username.",
+	"heading_update_username": "Update your username?",
+	"current_username": "Your current username is {{username}}.",
+	"username_requirements": "Usernames can be 3 - 32 characters long and consist of letters and numbers. Your username can be changed again after 24 hours.",
+	"username_limit_warning": "You can only change your username once in a 24 hour period. Please check back later if you want to change your username again.",
+	"username_limit_exceed": "You can change your username once every 24 hours.",
+	"heading_username": "Username",
+	"invalid_username": "Please choose a valid username.",
+	"valid_username": "Looks good!",
+	"choose_username": "Choose Username",
+
+	"err_invalid_characters": "Your username contains invalid characters. Valid characters are letters and numbers only.",
+	"err_too_short": "Your username is too short. It needs to be at least 3 characters long.",
+	"err_too_long": "Your username is too long. It needs to be no more than 32 characters long.",
+	"err_unknown": "An unknown error occurred while updating your username."
+}

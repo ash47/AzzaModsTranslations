@@ -1,0 +1,11 @@
+{
+	"page_title": "Home Page",
+	"page_des": "The AzzaFortysix Mod Launcher allows you to install mods for a whole range of different games. The mod launcher can be downloaded for free from this website.",
+
+	"home_update_log": "Update Log",
+	"home_incorrect_rank": "This is the initial version, please reach out to us on Discord if your rank is being detected incorrectly.",
+	"generic_welcome": "Welcome to {{url}}",
+	"mod_launcher_intro": "The mod launcher is <0>100% free</0> and can be <1>downloaded here</1>. You can browse the games and mods that are available <2>here</2>.",
+	"patreon_ad": "You can become a <0>Patron</0> to unlock mods upto 2 weeks earlier than the public release. We will try to release the majority of mods to the public. Currently mods that take a significant amount of time or effort will be reserved exclusively for <0>Patrons</0>.",
+	"please_login_ad": "Please login to access <0>Patron</0> only features such as linking your Patreon account to your mod launcher which will unlock exclusive mods and give you early access to other mods."
+}

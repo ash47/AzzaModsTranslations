@@ -8,7 +8,8 @@ const mainLanguage = 'en';
 
 const otherLanguages = [
 	'ru',
-	'zh'
+	'zh',
+	'vi'
 ];
 
 const mainLanguageDir = path.join(startingPath, mainLanguage);
