@@ -1,0 +1,43 @@
+{
+	"update_available": "Update Available for {{rank}} Patrons",
+	"mod_restricted": "Restricted to {{rank}} Patrons",
+
+	"mod_info": "Mod Info",
+	"install_mod": "Install Mod",
+	"disable_mod": "Disable Mod",
+	"enable_mod": "Enable Mod",
+	"no_release_available": "No Release Available",
+
+	"mod_Custom Fish Toolkit": "Custom Fish Toolkit",
+	"mod_Environment Editor": "Environment Editor",
+	"mod_Enhancements": "Enhancements",
+	"mod_You Are What You Eat": "You Are What You Eat",
+	"mod_New Selection Screen": "New Selection Screen",
+	"mod_Shark Lasers": "Shark Lasers",
+	"mod_Stats Editor": "Stats Editor",
+
+	"option_Remove Above Water Fog": "Remove Above Water Fog",
+	"option_Invisible Water": "Invisible Water",
+	"option_Deeper Ocean": "Deeper Ocean",
+	"option_Remove Water": "Remove Water",
+	"option_Unlock All Fish": "Unlock All Fish",
+	"option_Unlimited Coins": "Unlimited Coins",
+	"option_Unlimited Oxygen": "Unlimited Oxygen",
+	"option_Unlimited Sprint": "Unlimited Sprint",
+	"option_Unlimited Zoom": "Unlimited Zoom",
+	"option_Remove Camera Water Clipping": "Remove Camera Water Clipping",
+	"option_All Fish Are What They Eat": "All Fish Are What They Eat",
+
+	"mod_Fun Games": "Fun & Games",
+
+	"mod_Clone Drone Essentials": "Clone Drone Essentials",
+
+	"option_Infinite Points": "Infinite Points",
+	"option_Infinite Energy": "Infinite Energy",
+	"option_Unlock Locked Abilities": "Unlock Locked Abilities",
+	"option_360 Projectile Deflection": "360 Projectile Deflection",
+
+	"mod_60 Parsecs Essentials": "Parsecs Essentials",
+
+	"option_Infinite Soup": "Infinite Soup"
+}
