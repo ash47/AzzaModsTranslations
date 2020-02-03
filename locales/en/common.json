@@ -15,5 +15,25 @@
 	"navbar_toggle_menu": "Toggle Menu",
 	"loading": "Loading...",
 
-	"sidebar_mod_manager": "Mod Manager"
+	"view_on_steam": "View Game on Steam",
+
+	"sidebar_mod_manager": "Mod Manager",
+
+	"your_account": "Your account",
+	"your_rank_detected": "You have been detected as rank {{rank}}",
+
+	"link_account_to_launcher": "Link Account to Mod Launcher",
+	"refresh_rank": "Refresh My Rank",
+
+	"rank_Elite": "Elite",
+	"rank_Gold": "Gold",
+	"rank_Silver": "Silver",
+	"rank_Patron": "Patron",
+	"rank_Non Supporter": "Non Supporter",
+
+	"cancel": "Cancel",
+
+	"unauthed_why_here": "You shouldn't be on this page if you are not authed.",
+
+	"please_wait": "Please wait..."
 }

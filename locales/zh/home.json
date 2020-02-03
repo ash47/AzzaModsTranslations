@@ -1,4 +1,10 @@
 {
-	"home_update_log": "更新日志",
-	"home_incorrect_rank": "这是初始版本，如果排名不正确，请通过Discord与我们联系。"
+    "home_update_log": "更新日志",
+    "home_incorrect_rank": "这是初始版本，如果排名不正确，请通过Discord与我们联系。",
+    "mod_launcher_intro": "Mod启动器<0>100％免费</0>，可以在此处<1>下载</1>。 您可以在<2>此处</2>浏览可用的游戏和模组。",
+    "generic_welcome": "Welcome to {{url}}",
+    "patreon_ad": "You can become a <0>Patron</0> to unlock mods upto 2 weeks earlier than the public release. We will try to release the majority of mods to the public. Currently mods that take a significant amount of time or effort will be reserved exclusively for <0>Patrons</0>.",
+    "page_title": "Home Page",
+    "page_des": "The AzzaFortysix Mod Launcher allows you to install mods for a whole range of different games. The mod launcher can be downloaded for free from this website.",
+    "please_login_ad": "Please login to access <0>Patron</0> only features such as linking your Patreon account to your mod launcher which will unlock exclusive mods and give you early access to other mods."
 }

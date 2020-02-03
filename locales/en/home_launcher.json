@@ -4,5 +4,7 @@
 	"launcher_heading": "Launcher",
 	"launcher_loaded": "The mod launcher has loaded successfully!",
 	"launcher_please_wait": "Please wait while the mod launcher loads.",
-	"launcher_please_wait_explanation": "We're just getting things ready for you, checking for updates and making sure mods are available."
+	"launcher_please_wait_explanation": "We're just getting things ready for you, checking for updates and making sure mods are available.",
+
+	"getting_started": "Select the game you want to install mods for via the <0>Mods</0> menu item."
 }

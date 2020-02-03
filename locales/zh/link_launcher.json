@@ -1,0 +1,15 @@
+{
+	"page_title": "Link Launcher to Patreon Account",
+
+	"heading_link_launcher": "Link Mod Launcher to Patreon Account",
+	"why_link": "Linking your Patreon Account to the mod launcher will allow you to gain access to your Patreon only features such as accessing mods early.",
+
+	"already_linked": "Your mod launcher is already linked.",
+	"how_to_get_code": "Open your web browser and visit <0>AzzaMods.com</0> and access the <0>Link Patreon Account</0> section to get your link code.",
+	"your_code": "Your Link Code:",
+	"button_link_account": "Link Account",
+	"restricted_mod_launcher": "This page should only be accessed from within the Mod Launcher.",
+
+	"first_enter_code": "You need to enter a link code first.",
+	"err_unknown": "An unknown error occurred while linking your account."
+}

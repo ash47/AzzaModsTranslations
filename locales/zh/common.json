@@ -14,5 +14,18 @@
     "navbar_login_via_patreon": "通过Patreon登录",
     "navbar_toggle_menu": "切换菜单",
     "sidebar_mod_manager": "模组经理",
-    "loading": "载入中..."
+    "loading": "载入中...",
+    "your_account": "Your account",
+    "your_rank_detected": "You have been detected as rank {{rank}}",
+    "link_account_to_launcher": "Link Account to Mod Launcher",
+    "refresh_rank": "Refresh My Rank",
+    "rank_Elite": "Elite",
+    "rank_Gold": "Gold",
+    "rank_Silver": "Silver",
+    "rank_Patron": "Patron",
+    "rank_Non Supporter": "Non Supporter",
+    "view_on_steam": "View Game on Steam",
+    "cancel": "Cancel",
+    "unauthed_why_here": "You shouldn't be on this page if you are not authed.",
+    "please_wait": "Please wait..."
 }
