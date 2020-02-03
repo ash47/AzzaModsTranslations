@@ -1,20 +1,20 @@
 {
-	"page_title": "Download AzzaFortysix Mod Launcher",
-	"page_des": "The AzzaFortysix Mod Launcher can be downloaded from this page for free. The mod launcher allows you to install mods for a whole range of different games",
+	"page_title": "Tải xuống Trình khởi chạy Mod AzzaFortysix",
+	"page_des": "Trình khởi chạy Mod AzzaFortysix có thể được tải xuống miễn phí từ trang này. Trình khởi chạy mod cho phép bạn cài đặt các mod cho toàn bộ các trò chơi khác nhau",
 
-	"heading": "Download Mod Launcher",
-	"click_here": "Click <0>here</0> to download the Mod Launcher.",
-	"total_downloads": "The Mod Launcher has been downloaded {{totalDownloads}} times.",
-	"first_downloader": "You will be the first person to download the Mod Launcher!",
-	"prerequisites": "Prerequisites / Requirements:",
+	"heading": "Tải xuống Mod Launcher",
+	"click_here": "Nhấp vào <0>tại đây</0> để tải xuống Trình khởi chạy Mod.",
+	"total_downloads": "Trình khởi chạy Mod đã được tải xuống {{totalDownloads}} lần.",
+	"first_downloader": "Bạn sẽ là người đầu tiên tải xuống Mod Launcher!",
+	"prerequisites": "Điều kiện tiên quyết / Yêu cầu:",
 	
-	"dependency_info": "The following packages need to be downloaded and installed. These are very common packages and it's likely you'll already have these installed if you're using Windows 10. They can be downloaded from Microsoft using the links below:",
+	"dependency_info": "Các gói sau cần được tải xuống và cài đặt. Đây là những gói rất phổ biến và có khả năng bạn đã cài đặt chúng nếu bạn đang sử dụng Windows 10. Chúng có thể được tải xuống từ Microsoft bằng các liên kết dưới đây:",
 	"dep_dotnet": ".NET Framework 4.5.2 - Runtime",
 	"dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
 
-	"heading_about": "About the Mod Launcher",
-	"info_update": "The Mod Launcher automatically manages updates, and will notify you when it detects a new version so you can stay up to date.",
-	"info_must_be_running": "You need to have the Mod Launcher running for mods to work within the game, the game will automatically launch the mod launcher if it isn't already running.",
-	"info_problems_update": "If you do face any issues with the Mod Launcher then you should download the latest version from this page.",
-	"info_still_stuck": "If you're still stuck, or have any questions for us, we provide free support via our <0>Discord</0> server which is free to join."
+	"heading_about": "Giới thiệu về Trình khởi chạy Mod",
+	"info_update": "Mod Launcher tự động quản lý các bản cập nhật và sẽ thông báo cho bạn khi phát hiện phiên bản mới để bạn có thể cập nhật.",
+	"info_must_be_running": "Bạn cần chạy Mod Launcher để mod hoạt động trong trò chơi, trò chơi sẽ tự động khởi chạy mod launcher nếu nó chưa chạy.",
+	"info_problems_update": "Nếu bạn gặp phải bất kỳ vấn đề nào với Mod Launcher thì bạn nên tải xuống phiên bản mới nhất từ trang này.",
+	"info_still_stuck": "Nếu bạn vẫn bị mắc kẹt hoặc có bất kỳ câu hỏi nào cho chúng tôi, chúng tôi sẽ cung cấp hỗ trợ miễn phí qua máy chủ <0>Discord</0> miễn phí để tham gia."
 }

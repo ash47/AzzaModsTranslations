@@ -1,11 +1,11 @@
 {
-	"quick_intro_left": "<0></0> Start by selecting a game",
-	"quick_intro_left2": "Select a game that you want to mod from the left side menu.",
-	"quick_intro_left3": "All of the mods that are available for that game will appear in the centre screen.",
-	"quick_intro_left4": "The side menu can be toggled open and closed via the blue arrow icon.",
+	"quick_intro_left": "<0></0>Bắt đầu bằng cách chọn trò chơi",
+	"quick_intro_left2": "Chọn một trò chơi mà bạn muốn sửa đổi từ menu bên trái.",
+	"quick_intro_left3": "Tất cả các mod có sẵn cho trò chơi đó sẽ xuất hiện ở màn hình trung tâm.",
+	"quick_intro_left4": "Menu bên có thể được mở và đóng thông qua biểu tượng mũi tên màu xanh.",
 
-	"quick_intro_right": "Control your mods here <0></0>",
-	"quick_intro_right2": "The mod launcher can be managed from the right hand side of the screen.",
+	"quick_intro_right": "Kiểm soát các mod của bạn tại đây <0></0>",
+	"quick_intro_right2": "Trình khởi chạy mod có thể được quản lý từ phía bên phải màn hình.",
 
-	"select_a_game": "Select a game first"
+	"select_a_game": "Chọn một trò chơi trước"
 }

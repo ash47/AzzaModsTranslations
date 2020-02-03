@@ -1,11 +1,11 @@
 {
-	"page_title": "Home Page",
-	"page_des": "The AzzaFortysix Mod Launcher allows you to install mods for a whole range of different games. The mod launcher can be downloaded for free from this website.",
+	"page_title": "Trang chủ",
+	"page_des": "Trình khởi chạy Mod AzzaFortysix cho phép bạn cài đặt các mod cho toàn bộ các trò chơi khác nhau. Trình khởi chạy mod có thể được tải xuống miễn phí từ trang web này.",
 
-	"home_update_log": "Update Log",
-	"home_incorrect_rank": "This is the initial version, please reach out to us on Discord if your rank is being detected incorrectly.",
-	"generic_welcome": "Welcome to {{url}}",
-	"mod_launcher_intro": "The mod launcher is <0>100% free</0> and can be <1>downloaded here</1>. You can browse the games and mods that are available <2>here</2>.",
-	"patreon_ad": "You can become a <0>Patron</0> to unlock mods upto 2 weeks earlier than the public release. We will try to release the majority of mods to the public. Currently mods that take a significant amount of time or effort will be reserved exclusively for <0>Patrons</0>.",
-	"please_login_ad": "Please login to access <0>Patron</0> only features such as linking your Patreon account to your mod launcher which will unlock exclusive mods and give you early access to other mods."
+	"home_update_log": "Cập nhật nhật ký",
+	"home_incorrect_rank": "Đây là phiên bản ban đầu, vui lòng liên hệ với chúng tôi trên Discord nếu thứ hạng của bạn bị phát hiện không chính xác.",
+	"generic_welcome": "Chào mừng bạn đến với {{url}}",
+	"mod_launcher_intro": "Trình khởi chạy mod là <0>miễn phí 100%</0> và có thể được <1>tải xuống tại đây</1>. Bạn có thể duyệt các trò chơi và mod có sẵn <2>tại đây</2>.",
+	"patreon_ad": "Bạn có thể trở thành <0>Người bảo trợ</0> để mở khóa các bản mod sớm hơn 2 tuần so với bản phát hành công khai. Chúng tôi sẽ cố gắng phát hành phần lớn các mod cho công chúng. Các mod hiện tại mất một lượng thời gian hoặc công sức đáng kể sẽ được dành riêng cho <0>Khách hàng quen</0>.",
+	"please_login_ad": "Vui lòng đăng nhập để truy cập <0>Người bảo trợ</0> chỉ các tính năng như liên kết tài khoản Patreon của bạn với trình khởi chạy mod sẽ mở khóa các mod độc quyền và cung cấp cho bạn quyền truy cập sớm vào các mod khác."
 }
