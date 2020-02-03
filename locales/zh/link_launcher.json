@@ -1,15 +1,15 @@
 {
-	"page_title": "Link Launcher to Patreon Account",
+	"page_title": "将启动器链接到Patreon帐户",
 
-	"heading_link_launcher": "Link Mod Launcher to Patreon Account",
-	"why_link": "Linking your Patreon Account to the mod launcher will allow you to gain access to your Patreon only features such as accessing mods early.",
+	"heading_link_launcher": "将Mod Launcher链接到Patreon帐户",
+	"why_link": "将您的Patreon帐户链接到mod启动器，将使您能够访问Patreon仅功能，例如尽早访问mod。",
 
-	"already_linked": "Your mod launcher is already linked.",
-	"how_to_get_code": "Open your web browser and visit <0>AzzaMods.com</0> and access the <0>Link Patreon Account</0> section to get your link code.",
-	"your_code": "Your Link Code:",
-	"button_link_account": "Link Account",
-	"restricted_mod_launcher": "This page should only be accessed from within the Mod Launcher.",
+	"already_linked": "您的国防部发射器已经链接。",
+	"how_to_get_code": "打开您的Web浏览器，然后访问 <0>AzzaMods.com</0> 并访问 <0>Link Patreon帐户</0> 部分以获取您的链接代码。",
+	"your_code": "您的链接代码：",
+	"button_link_account": "连结帐户",
+	"restricted_mod_launcher": "只能从Mod Launcher内部访问此页面。",
 
-	"first_enter_code": "You need to enter a link code first.",
-	"err_unknown": "An unknown error occurred while linking your account."
+	"first_enter_code": "您需要先输入链接代码。",
+	"err_unknown": "关联您的帐户时发生未知错误。"
 }

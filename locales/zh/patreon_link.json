@@ -1,18 +1,18 @@
 {
-	"page_title": "Link Account to Mod Launcher",
+	"page_title": "将帐户链接到Mod Launcher",
 
-	"heading_link_account": "Link Account to Mod Launcher",
-	"info_perks": "You can link your Patreon account to your mod launcher to access your Patreon perks within the Mod Launcher.",
-	"warning_downgrade_1": "If you downgrade your Patreon Membership Tier then it will stay downgraded until the end of the next month.",
-	"info_instant_upgrade": "Upgrades will automatically apply UNLESS you've previously downgraded your Membership Tier last month or this month.",
-	"account_currently_linked": "Your account is currently linked",
-	"info_single_link": "You can only link a single Mod Launcher at a time, linking a new Mod Launcher will unlink all old Mod Launchers",
-	"button_generate_new_code": "Generate New Link Code",
-	"button_generate_code": "Generate Link Code",
-	"account_not_linked": "Your account is not linked",
-	"your_code": "Your link code is:",
-	"your_code_help": "Paste this into the Mod Launcher to link your Patreon account to our mod launcher and unlock more features.",
+	"heading_link_account": "将帐户链接到Mod Launcher",
+	"info_perks": "您可以将您的Patreon帐户链接到您的Mod启动器，以访问Mod Launcher中的Patreon特权。",
+	"warning_downgrade_1": "如果您将Patreon会员等级降级，则它将一直降级直到下个月底。",
+	"info_instant_upgrade": "除非您之前上个月或本月降级了会员级别，否则升级将自动应用。",
+	"account_currently_linked": "您的帐户目前已关联",
+	"info_single_link": "您一次只能链接一个Mod启动器，链接一个新的Mod Launcher将取消链接所有旧的Mod Launcher",
+	"button_generate_new_code": "生成新的链接代码",
+	"button_generate_code": "产生连结码",
+	"account_not_linked": "您的帐户未关联",
+	"your_code": "您的链接代码是：",
+	"your_code_help": "将此粘贴到Mod Launcher中，以将您的Patreon帐户链接到我们的Mod Launcher并解锁更多功能。",
 
-	"err_unknown": "Server sent an unrecognised response, please try again later",
-	"err_generate_fail": "Failed to generate link code"
+	"err_unknown": "服务器发送了无法识别的回复，请稍后重试",
+	"err_generate_fail": "无法生成链接代码"
 }

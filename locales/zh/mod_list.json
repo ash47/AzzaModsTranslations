@@ -1,29 +1,29 @@
 {
-	"first_configure_launcher": "You need to configure the Mod Launcher before you can use any mods <0></0>",
-	"connecting": "Connecting to launcher for info...",
-	"first_run_launcher": "Run the launcher to manage your mods.",
-	"first_run_launcher_menu": "Launch the Mod Launcher to access this menu.",
-	"first_sign_in": "Sign in via Patreon to manage your mods.",
-	"first_sign_in_menu": "Sign in via Patreon to access this menu.",
+	"first_configure_launcher": "您需要先配置Mod Launcher，然后才能使用任何Mods <0></0>",
+	"connecting": "正在连接启动器以获取信息...",
+	"first_run_launcher": "运行启动器来管理您的mod。",
+	"first_run_launcher_menu": "启动Mod Launcher以访问此菜单。",
+	"first_sign_in": "通过Patreon登录以管理您的Mod。",
+	"first_sign_in_menu": "通过Patreon登录以访问此菜单。",
 
-	"dev_mods": "Dev Mods",
-	"create_mod": "Create Mod",
+	"dev_mods": "开发模组",
+	"create_mod": "建立模组",
 
-	"game_ready": "The game is patched and mods can be used.",
-	"launch_game": "Launch Game",
-	"restore_original_files": "Restore Original Files",
-	"locked_restore_original_files": "The original files can be restored from within the launcher.",
+	"game_ready": "游戏已打补丁，可以使用mod。",
+	"launch_game": "开始游戏",
+	"restore_original_files": "恢复原始文件",
+	"locked_restore_original_files": "可以从启动器中还原原始文件。",
 
-	"game_unpatched": "The mod launcher has found your copy of the game. You need to patch the game so that mods can be loaded.",
-	"patch_game": "Patch Game",
-	"locked_patch_game": "The game can only be patched from within the launcher.",
+	"game_unpatched": "Mod启动器已找到您的游戏副本。 您需要修补游戏，以便可以加载mod。",
+	"patch_game": "补丁游戏",
+	"locked_patch_game": "只能从启动器中修补游戏。",
 
-	"game_not_found": "The mod launcher couldn't find your copy of the game. Please show us where the game is located.",
-	"install_path": "<0>Install path:</0> {{installPath}}",
+	"game_not_found": "mod启动器找不到您的游戏副本。 请向我们展示游戏的位置。",
+	"install_path": "<0>安装路径：</0> {{installPath}}",
 
-	"browse_game": "Browse...",
-	"detect_game": "Detect",
-	"locked_browse_game": "The install path can only be changed from within the launcher.",
+	"browse_game": "浏览...",
+	"detect_game": "检测",
+	"locked_browse_game": "安装路径只能在启动器中更改。",
 
-	"game_not_recognised": "Your launcher doesn't recognise this game. Update your launcher or try another game."
+	"game_not_recognised": "您的启动器无法识别该游戏。 更新您的启动器或尝试其他游戏。"
 }
