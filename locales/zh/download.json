@@ -1,20 +1,20 @@
 {
-	"page_title": "Download AzzaFortysix Mod Launcher",
-	"page_des": "The AzzaFortysix Mod Launcher can be downloaded from this page for free. The mod launcher allows you to install mods for a whole range of different games",
+	"page_title": "下载AzzaFortysix Mod启动器",
+	"page_des": "可以从此页面免费下载AzzaFortysix Mod Launcher。 Mod启动器可让您为各种不同的游戏安装Mod",
 
-	"heading": "Download Mod Launcher",
-	"click_here": "Click <0>here</0> to download the Mod Launcher.",
-	"total_downloads": "The Mod Launcher has been downloaded {{totalDownloads}} times.",
-	"first_downloader": "You will be the first person to download the Mod Launcher!",
-	"prerequisites": "Prerequisites / Requirements:",
+	"heading": "下载Mod启动器",
+	"click_here": "单击<0>此处</ 0>以下载Mod Launcher。",
+	"total_downloads": "Mod Launcher已下载 {{totalDownloads}} 次。",
+	"first_downloader": "您将是第一个下载Mod Launcher的人！",
+	"prerequisites": "先决条件/要求：",
 	
-	"dependency_info": "The following packages need to be downloaded and installed. These are very common packages and it's likely you'll already have these installed if you're using Windows 10. They can be downloaded from Microsoft using the links below:",
-	"dep_dotnet": ".NET Framework 4.5.2 - Runtime",
-	"dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
+	"dependency_info": "需要下载并安装以下软件包。 这些是非常常见的程序包，如果您使用的是Windows 10，则可能已经安装了这些程序包。可以使用下面的链接从Microsoft下载它们：",
+	"dep_dotnet": ".NET Framework 4.5.2-运行时",
+	"dep_visualstudio": "适用于Visual Studio 2015的Visual C ++可再发行组件-x86",
 
-	"heading_about": "About the Mod Launcher",
-	"info_update": "The Mod Launcher automatically manages updates, and will notify you when it detects a new version so you can stay up to date.",
-	"info_must_be_running": "You need to have the Mod Launcher running for mods to work within the game, the game will automatically launch the mod launcher if it isn't already running.",
-	"info_problems_update": "If you do face any issues with the Mod Launcher then you should download the latest version from this page.",
-	"info_still_stuck": "If you're still stuck, or have any questions for us, we provide free support via our <0>Discord</0> server which is free to join."
+	"heading_about": "关于Mod启动器",
+	"info_update": "Mod Launcher会自动管理更新，并在检测到新版本时通知您，以便您保持最新状态。",
+	"info_must_be_running": "您需要运行Mod Launcher才能使Mod在游戏中正常工作，如果游戏尚未运行，游戏会自动启动Mod Launcher。",
+	"info_problems_update": "如果确实遇到Mod Launcher的任何问题，则应从此页面下载最新版本。",
+	"info_still_stuck": "如果您仍然遇到困难或对我们有任何疑问，我们会通过免费加入的<0>Discord</0>服务器提供免费支持。"
 }
