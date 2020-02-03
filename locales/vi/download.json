@@ -1,0 +1,20 @@
+{
+	"page_title": "Download AzzaFortysix Mod Launcher",
+	"page_des": "The AzzaFortysix Mod Launcher can be downloaded from this page for free. The mod launcher allows you to install mods for a whole range of different games",
+
+	"heading": "Download Mod Launcher",
+	"click_here": "Click <0>here</0> to download the Mod Launcher.",
+	"total_downloads": "The Mod Launcher has been downloaded {{totalDownloads}} times.",
+	"first_downloader": "You will be the first person to download the Mod Launcher!",
+	"prerequisites": "Prerequisites / Requirements:",
+	
+	"dependency_info": "The following packages need to be downloaded and installed. These are very common packages and it's likely you'll already have these installed if you're using Windows 10. They can be downloaded from Microsoft using the links below:",
+	"dep_dotnet": ".NET Framework 4.5.2 - Runtime",
+	"dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
+
+	"heading_about": "About the Mod Launcher",
+	"info_update": "The Mod Launcher automatically manages updates, and will notify you when it detects a new version so you can stay up to date.",
+	"info_must_be_running": "You need to have the Mod Launcher running for mods to work within the game, the game will automatically launch the mod launcher if it isn't already running.",
+	"info_problems_update": "If you do face any issues with the Mod Launcher then you should download the latest version from this page.",
+	"info_still_stuck": "If you're still stuck, or have any questions for us, we provide free support via our <0>Discord</0> server which is free to join."
+}
