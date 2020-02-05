@@ -1,10 +1,10 @@
 {
-    "home_update_log": "更新日志",
-    "home_incorrect_rank": "这是初始版本，如果排名不正确，请通过Discord与我们联系。",
-    "mod_launcher_intro": "Mod启动器<0>100％免费</0>，可以在此处<1>下载</1>。 您可以在<2>此处</2>浏览可用的游戏和模组。",
-    "generic_welcome": "欢迎使用 {{url}}",
-    "patreon_ad": "您可以成为 <0>Patron</0> 的人，以在公开发布之前至少两周解锁Mod。 我们将尝试向公众发布大多数mod。 当前需要花费大量时间或精力的mod将专门为<0>顾客</ 0>保留。",
     "page_title": "主页",
-    "page_des": "AzzaFortysix Mod Launcher允许您为各种不同的游戏安装Mod。 可以从该网站免费下载mod启动器。",
-    "please_login_ad": "请登录以仅访问 <0>Patron</0> 功能，例如将您的Patreon帐户链接到您的Mod启动器，这将解锁独家Mod，并让您尽早使用其他Mod。"
+    "page_des": "AzzaFortysix Mod Launcher 让您为游戏设置组装. 这个 mod launcher 可以免费在这个网站下载.",
+    "home_update_log": "更新记录",
+    "home_incorrect_rank": "这个是第一个版本, 如果您的等级被检验错误, 请在 Discord 向我们查询任何疑问.",
+    "generic_welcome": "欢迎来到 {{url}}",
+    "mod_launcher_intro": "这个 mod launcher 是 <0>100% 免费的</0> 并可以在 <1>这里下载</1>. 您可以浏览支持的游戏和组装在 <2>这里</2>.",
+    "patreon_ad": "您可以成为一名 <0>Patron</0> 并且更早取得组装使用权高达两个星期, 相比公开发布的时间. 我们会尽力推出大部分的组装给公众们. 此时, 大量耗时耗力的独特组装只会给予 <0>Patrons</0> 推出.",
+    "please_login_ad": "请登录到您的账户, 解开 <0>Patron</0> 的权利, 比如链接您的 Patreon 账户到此 mod launcher, 借此取得独特的组装和早期取得其他组装的使用权."
 }

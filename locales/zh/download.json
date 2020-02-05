@@ -1,20 +1,20 @@
 {
-	"page_title": "下载AzzaFortysix Mod启动器",
-	"page_des": "可以从此页面免费下载AzzaFortysix Mod Launcher。 Mod启动器可让您为各种不同的游戏安装Mod",
+    "page_title": "请下载 AzzaFortysix Mod Launcher",
+    "page_des": "AzzaFortysix Mod Launcher 在此网站可以被免费下载，让你轻松下载模组在大部分游戏里",
 
-	"heading": "下载Mod启动器",
-	"click_here": "单击<0>此处</ 0>以下载Mod Launcher。",
-	"total_downloads": "Mod Launcher已下载 {{totalDownloads}} 次。",
-	"first_downloader": "您将是第一个下载Mod Launcher的人！",
-	"prerequisites": "先决条件/要求：",
-	
-	"dependency_info": "需要下载并安装以下软件包。 这些是非常常见的程序包，如果您使用的是Windows 10，则可能已经安装了这些程序包。可以使用下面的链接从Microsoft下载它们：",
-	"dep_dotnet": ".NET Framework 4.5.2 - Runtime",
-	"dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
+    "heading": "下载 Mod Launcher",
+    "click_here": "请点击 <0>这里</0> 开始免费下载 Mod Launcher.",
+    "total_downloads": "这个 Mod Launcher 已被下载了 {{totalDownloads}} 次.",
+    "first_downloader": "您会是第一个下载这个 Mod Launcher!",
+    "prerequisites": "先决条件 / 系统要求:",
 
-	"heading_about": "关于Mod启动器",
-	"info_update": "Mod Launcher会自动管理更新，并在检测到新版本时通知您，以便您保持最新状态。",
-	"info_must_be_running": "您需要运行Mod Launcher才能使Mod在游戏中正常工作，如果游戏尚未运行，游戏会自动启动Mod Launcher。",
-	"info_problems_update": "如果确实遇到Mod Launcher的任何问题，则应从此页面下载最新版本。",
-	"info_still_stuck": "如果您仍然遇到困难或对我们有任何疑问，我们会通过免费加入的<0>Discord</0>服务器提供免费支持。"
+    "dependency_info": "这些组装必须被下载及设置. 这些组装非常常见，并且在用 Windows 10 系统里可能已经被设置完毕了. 您可用以下的链接从 Microsoft 下载以下组装:",
+    "dep_dotnet": ".NET Framework 4.5.2 - Runtime",
+    "dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
+
+    "heading_about": "关于 Mod Launcher",
+    "info_update": "这个 Mod Launcher 会自动寻找可更新的版本, 并且会提醒您下载最新版本.",
+    "info_must_be_running": "您必须保持 Mod Launcher 一直启动，才可以让模组在游戏里发挥作用. 如果还没被启动, 游戏会自动开启 Mod Launcher.",
+    "info_problems_update": "如果您对 Mod Launcher 有什么困难, 请在此页下载最新版本.",
+    "info_still_stuck": "如果还是有困难之处, 或者有什么问题, 我们给予免费帮助在 <0>Discord</0> 小组里, 您可免费加入此小组."
 }
