@@ -35,5 +35,7 @@
 
 	"unauthed_why_here": "You shouldn't be on this page if you are not authed.",
 
-	"please_wait": "Please wait..."
+	"please_wait": "Please wait...",
+
+	"navbar_install_update": "Install Update"
 }

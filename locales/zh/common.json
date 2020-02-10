@@ -15,25 +15,18 @@
     "navbar_toggle_menu": "切换菜单",
     "sidebar_mod_manager": "模组管理",
     "loading": "载入中...",
-
     "view_on_steam": "在Steam上查看游戏",
-
     "your_account": "您的帐户",
     "your_rank_detected": "您的账户被检测为等级 {{rank}}",
-
     "link_account_to_launcher": "将帐户链接到Mod Launcher",
     "refresh_rank": "刷新我的等级",
-
     "rank_Elite": "Elite",
     "rank_Gold": "Gold",
     "rank_Silver": "Silver",
     "rank_Patron": "Patron",
     "rank_Non Supporter": "不支持者",
-
-
     "cancel": "取消",
-
     "unauthed_why_here": "您没有通过检测，不能进入此页面",
-
-    "please_wait": "请耐心等待..."
+    "please_wait": "请耐心等待...",
+    "navbar_install_update": "安装更新"
 }
