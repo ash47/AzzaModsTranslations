@@ -1,0 +1,46 @@
+{
+	"update_available": "Oppdatering tilgjengelig for {{rank}} Patrons",
+	"mod_restricted": "Begrenset til {{rank}} Patrons",
+
+	"mod_info": "Mod Info",
+	"install_mod": "Instaler Mod",
+	"disable_mod": "Skru av Mod",
+	"enable_mod": "Skru på Mod",
+	"no_release_available": "Ingen utgivelse tilgjengelig",
+
+	"mod_Custom Fish Toolkit": "Tilpasset fisk Toolkit",
+	"mod_Environment Editor": "Miljø Editor",
+	"mod_Enhancements": "forbedringer",
+	"mod_You Are What You Eat": "Du er hva du spiser",
+	"mod_New Selection Screen": "Nytt valgskjermbilde",
+	"mod_Shark Lasers": "Laser hai",
+	"mod_Stats Editor": "Stats Editor",
+
+	"option_Remove Above Water Fog": "Fjern tåke over vann",
+	"option_Invisible Water": "Usynlig vann",
+	"option_Deeper Ocean": "Dypere Hav",
+	"option_Remove Water": "Fjern Vann",
+	"option_Unlock All Fish": "Få alle fisker",
+	"option_Unlimited Coins": "Evig mynter",
+	"option_Unlimited Oxygen": "Evig Oxygen",
+	"option_Unlimited Sprint": "Evig Stamina",
+	"option_Unlimited Zoom": "Evig Zoom",
+	"option_Remove Camera Water Clipping": "Fjern kameravannklipping",
+	"option_All Fish Are What They Eat": "All fisk er det de spiser",
+
+	"mod_Fun Games": "Fun & Games",
+	"option_Infinite Farts": "Evig Promp",
+
+	"mod_Clone Drone Essentials": "Klon Drone Essentials",
+
+	"option_Infinite Points": "Evig Poeng",
+	"option_Minimum Points": "Minium Poeng",
+	"option_Infinite Energy": "Evig Energi",
+	"option_Unlock Locked Abilities": "Lås opp alle ferdigheter",
+	"option_360 Projectile Deflection": "360 protjektil blokkering",
+
+	"mod_60 Parsecs Essentials": "Parsecs Essentials",
+
+	"option_Infinite Soup": "Evig Suppe",
+	"option_Soup Count": "Spuppe Måler"
+}

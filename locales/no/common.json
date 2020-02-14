@@ -1,0 +1,41 @@
+{
+	"url": "AzzaMods.com",
+	"change-locale": "Skifte språk",
+	"navbar_home": "Hjem",
+	"navbar_mods": "Mods",
+	"navbar_download": "Last Ned",
+	"navbar_link_patreon": "Link Patreon Bruker",
+	"navbar_discord": "Discord",
+	"navbar_patreon": "Patreon",
+	"navbar_admin": "Admin",
+	"navbar_profile": "Profil",
+	"navbar_logout": "Log ut",
+	"navbar_link_launcher": "Link Launcher",
+	"navbar_login_via_patreon": "Logg in via Patreon",
+	"navbar_toggle_menu": "Veksle Menu",
+	"loading": "Laster...",
+
+	"view_on_steam": "Vis på steam",
+
+	"sidebar_mod_manager": "Mod Manager",
+
+	"your_account": "Din bruker",
+	"your_rank_detected": "Du har blitt oppdaget som rangering {{rank}}",
+
+	"link_account_to_launcher": "Koble konto til Mod Launcher",
+	"refresh_rank": "Oppdater min rangering",
+
+	"rank_Elite": "Elite",
+	"rank_Gold": "GUll",
+	"rank_Silver": "Sølv",
+	"rank_Patron": "Patron",
+	"rank_Non Supporter": "Ikke tilhenger",
+
+	"cancel": "Avbryt",
+
+	"unauthed_why_here": "Du bør ikke være på denne siden hvis du ikke er authed.",
+
+	"please_wait": "Vennligst vent...",
+
+	"navbar_install_update": "Installer oppdatering"
+}

@@ -1,0 +1,11 @@
+{
+	"page_title": "Hjemmeside",
+	"page_des": "AzzaFortysix Mod Starter lar deg instalere mods for en rekke spill,mod launcher kan bli lasted ned fra denne siden Gratis.",
+
+	"home_update_log": "opptateringer",
+	"home_incorrect_rank": "Dette er den første versionen,vennligst kontakt oss på Discord hvis rangeringen din blir oppdaget feil.",
+	"generic_welcome": "Velkommen til {{url}}",
+	"mod_launcher_intro": "Modstarteren er <0> 100% gratis </0> og kan lastes ned <1> her </1>. Du kan bla gjennom spillene og modiene som er tilgjengelige <2> her </2>.",
+	"patreon_ad": "Du kan bli en <0> patreon </0> for å låse opp mods opptil to uker tidligere enn offentlig utgivelse. Vi vil prøve å frigjøre flertallet av mods for publikum. Foreløpig mods som tar en betydelig mengde tid eller krefter, vil bare være forbeholdt <0> Patreon </0>.",
+	"please_login_ad": "Vennligst logg inn for å få tilgang til <0> Patron </0> bare funksjoner som å koble Patreon-kontoen til mod-starteren din som vil låse opp eksklusive mods og gi deg tidlig tilgang til andre mods"
+}

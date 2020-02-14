@@ -1,0 +1,10 @@
+{
+	"launcher_title": "Mod Launcher",
+	"launcher_description": "Hjemmeside for ingame mod launcher.",
+	"launcher_heading": "Launcher",
+	"launcher_loaded": "The mod launcher Har lasted velykket",
+	"launcher_please_wait": "Vent menst mod launcher laster.",
+	"launcher_please_wait_explanation": "Vi gjør bare ting klare for deg, ser etter oppdateringer og sørger for at mods er tilgjengelige.",
+
+	"getting_started": "Velg spillet du vil installere mods for via menyen <0> Mods </0>."
+}

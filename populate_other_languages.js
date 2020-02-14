@@ -9,13 +9,16 @@ const mainLanguage = 'en';
 const otherLanguages = [
 	'ru',
 	'zh',
-	'vi'
+	'vi',
+	'no'
 ];
 
 const mainLanguageDir = path.join(startingPath, mainLanguage);
 const mainLanguageFiles = fs.readdirSync(mainLanguageDir);
 
 otherLanguages.forEach((language) => {
+	console.log(language)
+
 	const thisLanguageDir = path.join(startingPath, language);
 
 	// Ensure a directory exists for this language
@@ -34,8 +37,16 @@ otherLanguages.forEach((language) => {
 		} else {
 			// If it does exist, search for missing keys and add them
 			try {
-				const ourLanguageFile = JSON.parse(fs.readFileSync(languagePath));
-				const referenceLanguageFile = JSON.parse(fs.readFileSync(referencePath));
+				let ourLanguageFile, referenceLanguageFile;
+				try {
+					ourLanguageFile = JSON.parse(fs.readFileSync(languagePath));
+					referenceLanguageFile = JSON.parse(fs.readFileSync(referencePath));
+				} catch(e) {
+					console.log(e);
+					console.log('Failed to parse ' + languageFile + ' for ' + language);
+					return;
+				}
+				
 
 				let madeChange = false;
 

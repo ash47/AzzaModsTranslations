@@ -1,0 +1,32 @@
+{
+	"side_heading": "Dink Bruker",
+	"heading_profile": "Profile",
+	"heading_public_profile": "Din offentlige profil",
+
+	"hi_name": "Hei {{name}},",
+
+	"profile_public": "Profilen din er for øyeblikket konfigurert til å være synlig for publikum.",
+	"profile_private": "Profilen din er bare synlig for deg og administratorer.",
+
+	"make_profile_private": "Gjør Min profil privat",
+	"make_profile_public": "Gjør Min profil offentlig",
+
+	"view_profile_message": "Du kan se den offentlige profilen din <0> her </0>.",
+
+	"no_username": "Ingen brukernavn valgt",
+	"heading_get_username": "La oss få et brukernavn.",
+	"heading_update_username": "Vil du oppdatere brukernavnet ditt?",
+	"current_username": "Ditt nåværende brukernavn er{{username}}.",
+	"username_requirements": "Brukernavn kan være 3 - 32 tegn lange og bestå av bokstaver og tall. Brukernavnet ditt kan endres igjen etter 24 timer.",
+	"username_limit_warning": "Du kan bare endre brukernavnet en gang i løpet av en 24-timers periode. Kom tilbake senere hvis du vil endre brukernavnet igjen.",
+	"username_limit_exceed": "Du kan endre brukernavnet en gang hver 24. time.",
+	"heading_username": "brukernavn",
+	"invalid_username": "Velg et gyldig brukernavn.",
+	"valid_username": "Ser bra ut!",
+	"choose_username": "Velg Brukernavn",
+
+	"err_invalid_characters": "Brukernavnet ditt inneholder ugyldige tegn. Gyldige tegn er bare bokstaver og tall.",
+	"err_too_short": "Brukernavnet ditt er for kort. Det må være minst tre tegn.",
+	"err_too_long": "Brukernavnet ditt er for langt. Det trenger ikke være mer enn 32 tegn.",
+	"err_unknown": "Det oppsto en ukjent feil under oppdateringen av brukernavnet ditt."
+}

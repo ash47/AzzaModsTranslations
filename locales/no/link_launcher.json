@@ -1,0 +1,15 @@
+{
+	"page_title": "Koble Launcher til Patreon-konto",
+
+	"heading_link_launcher": "Koble Launcher til Patreon-konto",
+	"why_link": "Ved å koble Patreon-kontoen din til mod-starteren vil du få tilgang til Patreon-bare funksjoner som tilgang til mods tidlig.",
+
+	"already_linked": "Mod-starteren din er allerede koblet.",
+	"how_to_get_code": "Åpne nettleseren din og besøk <0> AzzaMods.com </0> og få tilgang til delen <0> Link Patreon-konto </0> for å få koblingskoden din.",
+	"your_code": "Din koblingskode",
+	"button_link_account": "Link bruker",
+	"restricted_mod_launcher": "Denne siden skal bare nås innen Mod Launcher.",
+
+	"first_enter_code": "Du må angi en lenkkode først.",
+	"err_unknown": "Det oppsto en ukjent feil under koblingen til kontoen din."
+}

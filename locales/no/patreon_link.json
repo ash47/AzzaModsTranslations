@@ -1,0 +1,18 @@
+{
+	"page_title": "Link Bruker to Mod Launcher",
+
+	"heading_link_account": "Link Bruker to Mod Launcher",
+	"info_perks": "Du kan koble Patreon-kontoen til mod-starteren din for å få tilgang til Patreon-fordelene i Mod Launcher.",
+	"warning_downgrade_1": "Hvis du nedgraderer ditt Patreon-medlemskapsnivå, blir det nedgradert til slutten av neste måned.",
+	"info_instant_upgrade": "Oppgraderinger vil automatisk gjelde, med MINDRE du tidligere har nedjustert medlemsnivået din forrige måned eller denne måneden.",
+	"account_currently_linked": "Kontoen din er for øyeblikket lenket",
+	"info_single_link": "Du kan bare koble en enkelt Mod Launcher om gangen, ved å koble en ny Mod Launcher vil du koble fra alle gamle Mod Launcher",
+	"button_generate_new_code": "Lag ny Link kodeode",
+	"button_generate_code": "Lag Link kodeode",
+	"account_not_linked": "Kontoen din er ikke koblet",
+	"your_code": "Din link kode Er:",
+	"your_code_help": "Lim dette inn i Mod Launcher for å koble din Patreon-konto til vår mod-launcher og låse opp flere funksjoner.",
+
+	"err_unknown": "Serveren sendte et ukjent svar. Prøv igjen senere",
+	"err_generate_fail": "Kunne ikke generere koblingskode"
+}

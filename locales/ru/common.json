@@ -13,7 +13,7 @@
     "navbar_link_launcher": "Подключиться к Launcher",
     "navbar_login_via_patreon": "Войти через Patreon",
     "navbar_toggle_menu": "Переключить меню",
-    "sidebar_mod_manager": "模组经理",
+    "sidebar_mod_manager": "Мод менеджер",
     "loading": "Loading...",
     "your_account": "Ваш счет",
     "your_rank_detected": "Вы были обнаружены как ранг {{rank}}",
@@ -28,5 +28,5 @@
     "cancel": "Отмена",
     "unauthed_why_here": "Вы не должны быть на этой странице, если вы не авторизованы.",
     "please_wait": "Пожалуйста, подождите...",
-    "navbar_install_update": "Установить обновление",
+    "navbar_install_update": "Установить обновление"
 }
