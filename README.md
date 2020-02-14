@@ -18,3 +18,13 @@ This repo contains the public translations for the [AzzaFortysix Mod Launcher](h
 ### Things to watch out for
  - The content inside of `{{stuffLikeThis}}` are variables and should NOT be translated, these variables will be filled automatically with dynamic content.
  - The contents inside of angled bracket `<0>like this</0>` should be translated, but take care to keep the `<0>` and `</0>` exactly as they are, do not add any extra spacing or the translations will break.
+
+### Translation Credits ###
+ - English
+   - Ash47
+ - Chinese
+   - AzzaFortysix / ArzXnic
+ - Russian
+   - AzzaFortysix
+ - Norwegian
+   - Livia
