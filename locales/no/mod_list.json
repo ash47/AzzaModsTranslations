@@ -1,29 +1,24 @@
 {
-	"first_configure_launcher": "Du må konfigurere Mod Launcher før du kan bruke mods <0> </0>",
-	"connecting": "Koble til Launcher for info...",
-	"first_run_launcher": "Kjør launcher for å administrere modusen din.",
-	"first_run_launcher_menu": "Start Mod Launcher for å få tilgang til denne menyen.",
-	"first_sign_in": "Logg deg på via Patreon for å administrere mods",
-	"first_sign_in_menu": "Logg deg på via Patreon for å få tilgang til denne menyen.",
-
-	"dev_mods": "Dev Mods",
-	"create_mod": "Lag Mod",
-
-	"game_ready": "spillet er patched og mods kan brukest.",
-	"launch_game": "Launch Game",
-	"restore_original_files": "Gjenopprett originale filer",
-	"locked_restore_original_files": "De originale filene kan gjenopprettes fra starteren.",
-
-	"game_unpatched": "Mod-lanseringen har funnet din kopi av spillet. Du må patche spillet slik at mods kan lastes.",
-	"patch_game": "Patch Spill",
-	"locked_patch_game": "Spillet kan bare bli patched fra inne i starteren.",
-
-	"game_not_found": "Mod-lanseringen fant ikke din kopi av spillet. Vennligst vis oss hvor spillet ligger.",
-	"install_path": "<0>Installer banen:</0> {{installPath}}",
-
-	"browse_game": "Bla...",
-	"detect_game": "oppdage",
-	"locked_browse_game": "Installasjonsbanen kan bare endres innenfra lanseringsprogrammet",
-
-	"game_not_recognised": "Starteren din kjenner ikke igjen dette spillet. Oppdater Launcher eller prøv et annet spill."
+    "first_configure_launcher": "Du må konfigurere Mod Launcher før du kan bruke mods <0> </0>",
+    "connecting": "Koble til Launcher for info...",
+    "first_run_launcher": "Kjør launcher for å administrere modusen din.",
+    "first_run_launcher_menu": "Start Mod Launcher for å få tilgang til denne menyen.",
+    "first_sign_in": "Logg deg på via Patreon for å administrere mods",
+    "first_sign_in_menu": "Logg deg på via Patreon for å få tilgang til denne menyen.",
+    "dev_mods": "Dev Mods",
+    "create_mod": "Lag Mod",
+    "game_ready": "spillet er patched og mods kan brukest.",
+    "launch_game": "Launch Game",
+    "restore_original_files": "Gjenopprett originale filer",
+    "locked_restore_original_files": "De originale filene kan gjenopprettes fra starteren.",
+    "game_unpatched": "Mod-lanseringen har funnet din kopi av spillet. Du må patche spillet slik at mods kan lastes.",
+    "patch_game": "Patch Spill",
+    "locked_patch_game": "Spillet kan bare bli patched fra inne i starteren.",
+    "game_not_found": "Mod-lanseringen fant ikke din kopi av spillet. Vennligst vis oss hvor spillet ligger.",
+    "install_path": "<0>Installer banen:</0> {{installPath}}",
+    "browse_game": "Bla...",
+    "detect_game": "oppdage",
+    "locked_browse_game": "Installasjonsbanen kan bare endres innenfra lanseringsprogrammet",
+    "game_not_recognised": "Starteren din kjenner ikke igjen dette spillet. Oppdater Launcher eller prøv et annet spill.",
+    "published_mods": "Published Mods"
 }

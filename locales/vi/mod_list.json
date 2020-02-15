@@ -1,29 +1,24 @@
 {
-	"first_configure_launcher": "Bạn cần định cấu hình Trình khởi chạy Mod trước khi có thể sử dụng bất kỳ mod nào <0></0>",
-	"connecting": "Kết nối với launcher để biết thông tin...",
-	"first_run_launcher": "Chạy launcher để quản lý mod của bạn.",
-	"first_run_launcher_menu": "Khởi chạy Mod Launcher để truy cập menu này.",
-	"first_sign_in": "Đăng nhập qua Patreon để quản lý các mod của bạn.",
-	"first_sign_in_menu": "Đăng nhập qua Patreon để truy cập menu này.",
-
-	"dev_mods": "Dev Mods",
-	"create_mod": "Tạo Mod",
-
-	"game_ready": "Trò chơi được vá và mod có thể được sử dụng.",
-	"launch_game": "Khởi động trò chơi",
-	"restore_original_files": "Khôi phục tập tin gốc",
-	"locked_restore_original_files": "Các tập tin gốc có thể được khôi phục từ bên trong launcher.",
-
-	"game_unpatched": "Trình khởi chạy mod đã tìm thấy bản sao của trò chơi. Bạn cần vá game để mod có thể được tải.",
-	"patch_game": "Trò chơi vá",
-	"locked_patch_game": "Trò chơi chỉ có thể được vá từ bên trong launcher.",
-
-	"game_not_found": "Trình khởi chạy mod không thể tìm thấy bản sao của trò chơi. Vui lòng cho chúng tôi biết nơi trò chơi được đặt.",
-	"install_path": "<0>Đường dẫn cài đặt:</0> {{installPath}}",
-
-	"browse_game": "Duyệt...",
-	"detect_game": "Phát hiện",
-	"locked_browse_game": "Đường dẫn cài đặt chỉ có thể được thay đổi từ bên trong trình khởi chạy.",
-
-	"game_not_recognised": "Trình khởi chạy của bạn không nhận ra trò chơi này. Cập nhật launcher của bạn hoặc thử một trò chơi khác."
+    "first_configure_launcher": "Bạn cần định cấu hình Trình khởi chạy Mod trước khi có thể sử dụng bất kỳ mod nào <0></0>",
+    "connecting": "Kết nối với launcher để biết thông tin...",
+    "first_run_launcher": "Chạy launcher để quản lý mod của bạn.",
+    "first_run_launcher_menu": "Khởi chạy Mod Launcher để truy cập menu này.",
+    "first_sign_in": "Đăng nhập qua Patreon để quản lý các mod của bạn.",
+    "first_sign_in_menu": "Đăng nhập qua Patreon để truy cập menu này.",
+    "dev_mods": "Dev Mods",
+    "create_mod": "Tạo Mod",
+    "game_ready": "Trò chơi được vá và mod có thể được sử dụng.",
+    "launch_game": "Khởi động trò chơi",
+    "restore_original_files": "Khôi phục tập tin gốc",
+    "locked_restore_original_files": "Các tập tin gốc có thể được khôi phục từ bên trong launcher.",
+    "game_unpatched": "Trình khởi chạy mod đã tìm thấy bản sao của trò chơi. Bạn cần vá game để mod có thể được tải.",
+    "patch_game": "Trò chơi vá",
+    "locked_patch_game": "Trò chơi chỉ có thể được vá từ bên trong launcher.",
+    "game_not_found": "Trình khởi chạy mod không thể tìm thấy bản sao của trò chơi. Vui lòng cho chúng tôi biết nơi trò chơi được đặt.",
+    "install_path": "<0>Đường dẫn cài đặt:</0> {{installPath}}",
+    "browse_game": "Duyệt...",
+    "detect_game": "Phát hiện",
+    "locked_browse_game": "Đường dẫn cài đặt chỉ có thể được thay đổi từ bên trong trình khởi chạy.",
+    "game_not_recognised": "Trình khởi chạy của bạn không nhận ra trò chơi này. Cập nhật launcher của bạn hoặc thử một trò chơi khác.",
+    "published_mods": "Published Mods"
 }

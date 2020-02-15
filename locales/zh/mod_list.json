@@ -1,29 +1,24 @@
 {
-	"first_configure_launcher": "您需要先配置Mod Launcher，然后才能使用任何Mods <0></0>",
-	"connecting": "正在连接启动器以获取信息...",
-	"first_run_launcher": "运行启动器来管理您的mod。",
-	"first_run_launcher_menu": "启动Mod Launcher以访问此菜单。",
-	"first_sign_in": "通过Patreon登录以管理您的Mod。",
-	"first_sign_in_menu": "通过Patreon登录以访问此菜单。",
-
-	"dev_mods": "开发模组",
-	"create_mod": "建立模组",
-
-	"game_ready": "游戏已打补丁，可以使用mod。",
-	"launch_game": "开始游戏",
-	"restore_original_files": "恢复原始文件",
-	"locked_restore_original_files": "可以从启动器中还原原始文件。",
-
-	"game_unpatched": "Mod启动器已找到您的游戏副本。 您需要修补游戏，以便可以加载mod。",
-	"patch_game": "补丁游戏",
-	"locked_patch_game": "只能从启动器中修补游戏。",
-
-	"game_not_found": "mod启动器找不到您的游戏副本。 请向我们展示游戏的位置。",
-	"install_path": "<0>安装路径：</0> {{installPath}}",
-
-	"browse_game": "浏览...",
-	"detect_game": "检测",
-	"locked_browse_game": "安装路径只能在启动器中更改。",
-
-	"game_not_recognised": "您的启动器无法识别该游戏。 更新您的启动器或尝试其他游戏。"
+    "first_configure_launcher": "您需要先配置Mod Launcher，然后才能使用任何Mods <0></0>",
+    "connecting": "正在连接启动器以获取信息...",
+    "first_run_launcher": "运行启动器来管理您的mod。",
+    "first_run_launcher_menu": "启动Mod Launcher以访问此菜单。",
+    "first_sign_in": "通过Patreon登录以管理您的Mod。",
+    "first_sign_in_menu": "通过Patreon登录以访问此菜单。",
+    "dev_mods": "开发模组",
+    "create_mod": "建立模组",
+    "game_ready": "游戏已打补丁，可以使用mod。",
+    "launch_game": "开始游戏",
+    "restore_original_files": "恢复原始文件",
+    "locked_restore_original_files": "可以从启动器中还原原始文件。",
+    "game_unpatched": "Mod启动器已找到您的游戏副本。 您需要修补游戏，以便可以加载mod。",
+    "patch_game": "补丁游戏",
+    "locked_patch_game": "只能从启动器中修补游戏。",
+    "game_not_found": "mod启动器找不到您的游戏副本。 请向我们展示游戏的位置。",
+    "install_path": "<0>安装路径：</0> {{installPath}}",
+    "browse_game": "浏览...",
+    "detect_game": "检测",
+    "locked_browse_game": "安装路径只能在启动器中更改。",
+    "game_not_recognised": "您的启动器无法识别该游戏。 更新您的启动器或尝试其他游戏。",
+    "published_mods": "Published Mods"
 }
