@@ -32,7 +32,8 @@
     "option_360 Projectile Deflection": "360弹丸偏转",
     "mod_60 Parsecs Essentials": "Parsecs基础",
     "option_Infinite Soup": "无限汤",
-    "option_Minimum Points": "Minimum Points",
-    "option_Infinite Farts": "Infinite Farts",
-    "option_Soup Count": "Soup Count"
+    "option_Minimum Points": "最低分",
+    "option_Infinite Farts": "无限放屁",
+    "option_Soup Count": "汤数",
+    "more_options_ingame": "当您运行游戏时，将显示更多选项。"
 }

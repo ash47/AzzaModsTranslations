@@ -1,6 +1,7 @@
 {
 	"update_available": "Update Available for {{rank}} Patrons",
 	"mod_restricted": "Restricted to {{rank}} Patrons",
+	"more_options_ingame": "More options will appear when you run the game.",
 
 	"mod_info": "Mod Info",
 	"install_mod": "Install Mod",

@@ -32,7 +32,8 @@
     "option_360 Projectile Deflection": "360 Отклонение снаряда",
     "mod_60 Parsecs Essentials": "Parsecs Основы",
     "option_Infinite Soup": "Бесконечный суп",
-    "option_Minimum Points": "Minimum Points",
-    "option_Infinite Farts": "Infinite Farts",
-    "option_Soup Count": "Soup Count"
+    "option_Minimum Points": "Минимальные очки",
+    "option_Infinite Farts": "Бесконечные пукает",
+    "option_Soup Count": "Суп Суп",
+    "more_options_ingame": "Дополнительные параметры появятся при запуске игры."
 }

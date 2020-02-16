@@ -32,7 +32,8 @@
     "option_360 Projectile Deflection": "Độ lệch đạn 360",
     "mod_60 Parsecs Essentials": "Parsecs Yếu tố cần thiết",
     "option_Infinite Soup": "Súp vô hạn",
-    "option_Minimum Points": "Minimum Points",
-    "option_Infinite Farts": "Infinite Farts",
-    "option_Soup Count": "Soup Count"
+    "option_Minimum Points": "Điểm tối thiểu",
+    "option_Infinite Farts": "Rối vô hạn",
+    "option_Soup Count": "Số lượng súp",
+    "more_options_ingame": "Nhiều tùy chọn sẽ xuất hiện khi bạn chạy trò chơi."
 }
