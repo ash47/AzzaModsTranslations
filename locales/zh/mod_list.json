@@ -20,5 +20,6 @@
     "detect_game": "检测",
     "locked_browse_game": "安装路径只能在启动器中更改。",
     "game_not_recognised": "您的启动器无法识别该游戏。 更新您的启动器或尝试其他游戏。",
-    "published_mods": "Published Mods"
+    "published_mods": "Published Mods",
+    "first_configure_launcher_key_bindings": "Run the launcher to edit your key bindings."
 }

@@ -20,5 +20,6 @@
     "detect_game": "oppdage",
     "locked_browse_game": "Installasjonsbanen kan bare endres innenfra lanseringsprogrammet",
     "game_not_recognised": "Starteren din kjenner ikke igjen dette spillet. Oppdater Launcher eller prøv et annet spill.",
-    "published_mods": "Published Mods"
+    "published_mods": "Published Mods",
+    "first_configure_launcher_key_bindings": "Run the launcher to edit your key bindings."
 }

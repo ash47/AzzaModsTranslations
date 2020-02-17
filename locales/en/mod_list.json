@@ -6,6 +6,8 @@
 	"first_sign_in": "Sign in via Patreon to manage your mods.",
 	"first_sign_in_menu": "Sign in via Patreon to access this menu.",
 
+	"first_configure_launcher_key_bindings": "Run the launcher to edit your key bindings.",
+
 	"dev_mods": "Dev Mods",
 	"published_mods": "Published Mods",
 	"create_mod": "Create Mod",
