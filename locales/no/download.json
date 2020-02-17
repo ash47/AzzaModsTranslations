@@ -1,20 +1,18 @@
 {
-	"page_title": "Last ned AzzaFortysix Mod Launcher",
-	"page_des": "AzzaFortysix Mod Launcher kan lastes ned fra denne siden gratis. Mod-launcher lar deg installere mods for en rekke forskjellige spill",
-
-	"heading": "Last ned Mod Launcher",
-	"click_here": "klikk <0>here</0> for og laste ned Mod Launcher.",
-	"total_downloads": "Mod launcherhar blitt lasted ned {{totalDownloads}} Ganger.",
-	"first_downloader": "Du vil være den forste til og laste den ned!",
-	"prerequisites": "Forutsetninger/krav:",
-	
-	"dependency_info": "Følgende pakker må lastes ned og installeres. Dette er veldig vanlige pakker, og det er sannsynlig at du allerede har disse installert hvis du bruker Windows 10. De kan lastes ned fra Microsoft ved å bruke koblingene nedenfor:",
-	"dep_dotnet": ".NET Framework 4.5.2 - Runtime",
-	"dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
-
-	"heading_about": "Om Mod Launcher",
-	"info_update": "Mod Launcher administrerer oppdateringer automatisk, og vil varsle deg når den oppdager en ny versjon, slik at du kan holde deg oppdatert.",
-	"info_must_be_running": "Du må ha Mod Launcher for at mods skal fungere i spillet, spillet vil automatisk starte mod-lanseringen hvis den ikke allerede kjører.",
-	"info_problems_update": "Hvis du har problemer med Mod Launcher, bør du laste ned den nyeste versjonen fra denne siden.",
-	"info_still_stuck": "Hvis du fremdeles sitter fast, eller har spørsmål til oss, tilbyr vi gratis støtte via <0> Discord </0> serveren som er gratis å delta."
+    "page_title": "Last ned AzzaFortysix Mod Launcher",
+    "page_des": "AzzaFortysix Mod Launcher kan lastes ned fra denne siden gratis. Mod-launcher lar deg installere mods for en rekke forskjellige spill",
+    "heading": "Last ned Mod Launcher",
+    "click_here": "klikk <0>here</0> for og laste ned Mod Launcher.",
+    "total_downloads": "Mod launcherhar blitt lasted ned {{totalDownloads}} Ganger.",
+    "first_downloader": "Du vil være den forste til og laste den ned!",
+    "prerequisites": "Forutsetninger/krav:",
+    "dependency_info": "Følgende pakker må lastes ned og installeres. Dette er veldig vanlige pakker, og det er sannsynlig at du allerede har disse installert hvis du bruker Windows 10. De kan lastes ned fra Microsoft ved å bruke koblingene nedenfor:",
+    "dep_dotnet": ".NET Framework 4.5.2 - Runtime",
+    "dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
+    "heading_about": "Om Mod Launcher",
+    "info_update": "Mod Launcher administrerer oppdateringer automatisk, og vil varsle deg når den oppdager en ny versjon, slik at du kan holde deg oppdatert.",
+    "info_must_be_running": "Du må ha Mod Launcher for at mods skal fungere i spillet, spillet vil automatisk starte mod-lanseringen hvis den ikke allerede kjører.",
+    "info_problems_update": "Hvis du har problemer med Mod Launcher, bør du laste ned den nyeste versjonen fra denne siden.",
+    "info_still_stuck": "Hvis du fremdeles sitter fast, eller har spørsmål til oss, tilbyr vi gratis støtte via <0> Discord </0> serveren som er gratis å delta.",
+    "dependency_info_extra": "Du trenger x86 (32 bit) -versjonen selv om du bruker x64 (64 bit) -vinduer fordi mod-lanseringen er bygget for x86 (32-biters) -vinduer."
 }

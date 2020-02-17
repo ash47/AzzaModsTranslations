@@ -1,20 +1,18 @@
 {
-	"page_title": "Tải xuống Trình khởi chạy Mod AzzaFortysix",
-	"page_des": "Trình khởi chạy Mod AzzaFortysix có thể được tải xuống miễn phí từ trang này. Trình khởi chạy mod cho phép bạn cài đặt các mod cho toàn bộ các trò chơi khác nhau",
-
-	"heading": "Tải xuống Mod Launcher",
-	"click_here": "Nhấp vào <0>tại đây</0> để tải xuống Trình khởi chạy Mod.",
-	"total_downloads": "Trình khởi chạy Mod đã được tải xuống {{totalDownloads}} lần.",
-	"first_downloader": "Bạn sẽ là người đầu tiên tải xuống Mod Launcher!",
-	"prerequisites": "Điều kiện tiên quyết / Yêu cầu:",
-	
-	"dependency_info": "Các gói sau cần được tải xuống và cài đặt. Đây là những gói rất phổ biến và có khả năng bạn đã cài đặt chúng nếu bạn đang sử dụng Windows 10. Chúng có thể được tải xuống từ Microsoft bằng các liên kết dưới đây:",
-	"dep_dotnet": ".NET Framework 4.5.2 - Runtime",
-	"dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
-
-	"heading_about": "Giới thiệu về Trình khởi chạy Mod",
-	"info_update": "Mod Launcher tự động quản lý các bản cập nhật và sẽ thông báo cho bạn khi phát hiện phiên bản mới để bạn có thể cập nhật.",
-	"info_must_be_running": "Bạn cần chạy Mod Launcher để mod hoạt động trong trò chơi, trò chơi sẽ tự động khởi chạy mod launcher nếu nó chưa chạy.",
-	"info_problems_update": "Nếu bạn gặp phải bất kỳ vấn đề nào với Mod Launcher thì bạn nên tải xuống phiên bản mới nhất từ trang này.",
-	"info_still_stuck": "Nếu bạn vẫn bị mắc kẹt hoặc có bất kỳ câu hỏi nào cho chúng tôi, chúng tôi sẽ cung cấp hỗ trợ miễn phí qua máy chủ <0>Discord</0> miễn phí để tham gia."
+    "page_title": "Tải xuống Trình khởi chạy Mod AzzaFortysix",
+    "page_des": "Trình khởi chạy Mod AzzaFortysix có thể được tải xuống miễn phí từ trang này. Trình khởi chạy mod cho phép bạn cài đặt các mod cho toàn bộ các trò chơi khác nhau",
+    "heading": "Tải xuống Mod Launcher",
+    "click_here": "Nhấp vào <0>tại đây</0> để tải xuống Trình khởi chạy Mod.",
+    "total_downloads": "Trình khởi chạy Mod đã được tải xuống {{totalDownloads}} lần.",
+    "first_downloader": "Bạn sẽ là người đầu tiên tải xuống Mod Launcher!",
+    "prerequisites": "Điều kiện tiên quyết / Yêu cầu:",
+    "dependency_info": "Các gói sau cần được tải xuống và cài đặt. Đây là những gói rất phổ biến và có khả năng bạn đã cài đặt chúng nếu bạn đang sử dụng Windows 10. Chúng có thể được tải xuống từ Microsoft bằng các liên kết dưới đây:",
+    "dep_dotnet": ".NET Framework 4.5.2 - Runtime",
+    "dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
+    "heading_about": "Giới thiệu về Trình khởi chạy Mod",
+    "info_update": "Mod Launcher tự động quản lý các bản cập nhật và sẽ thông báo cho bạn khi phát hiện phiên bản mới để bạn có thể cập nhật.",
+    "info_must_be_running": "Bạn cần chạy Mod Launcher để mod hoạt động trong trò chơi, trò chơi sẽ tự động khởi chạy mod launcher nếu nó chưa chạy.",
+    "info_problems_update": "Nếu bạn gặp phải bất kỳ vấn đề nào với Mod Launcher thì bạn nên tải xuống phiên bản mới nhất từ trang này.",
+    "info_still_stuck": "Nếu bạn vẫn bị mắc kẹt hoặc có bất kỳ câu hỏi nào cho chúng tôi, chúng tôi sẽ cung cấp hỗ trợ miễn phí qua máy chủ <0>Discord</0> miễn phí để tham gia.",
+    "dependency_info_extra": "Bạn cần phiên bản x86 (32 bit) ngay cả khi bạn đang sử dụng cửa sổ x64 (64 bit) vì trình khởi chạy mod được xây dựng cho cửa sổ x86 (32 bit)."
 }

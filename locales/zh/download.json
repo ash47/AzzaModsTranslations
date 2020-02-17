@@ -1,20 +1,18 @@
 {
     "page_title": "请下载 AzzaFortysix Mod Launcher",
     "page_des": "AzzaFortysix Mod Launcher 在此网站可以被免费下载，让你轻松下载模组在大部分游戏里",
-
     "heading": "下载 Mod Launcher",
     "click_here": "请点击 <0>这里</0> 开始免费下载 Mod Launcher.",
     "total_downloads": "这个 Mod Launcher 已被下载了 {{totalDownloads}} 次.",
     "first_downloader": "您会是第一个下载这个 Mod Launcher!",
     "prerequisites": "先决条件 / 系统要求:",
-
     "dependency_info": "这些组装必须被下载及设置. 这些组装非常常见，并且在用 Windows 10 系统里可能已经被设置完毕了. 您可用以下的链接从 Microsoft 下载以下组装:",
     "dep_dotnet": ".NET Framework 4.5.2 - Runtime",
     "dep_visualstudio": "Visual C++ Redistributable for Visual Studio 2015 - x86",
-
     "heading_about": "关于 Mod Launcher",
     "info_update": "这个 Mod Launcher 会自动寻找可更新的版本, 并且会提醒您下载最新版本.",
     "info_must_be_running": "您必须保持 Mod Launcher 一直启动，才可以让模组在游戏里发挥作用. 如果还没被启动, 游戏会自动开启 Mod Launcher.",
     "info_problems_update": "如果您对 Mod Launcher 有什么困难, 请在此页下载最新版本.",
-    "info_still_stuck": "如果还是有困难之处, 或者有什么问题, 我们给予免费帮助在 <0>Discord</0> 小组里, 您可免费加入此小组."
+    "info_still_stuck": "如果还是有困难之处, 或者有什么问题, 我们给予免费帮助在 <0>Discord</0> 小组里, 您可免费加入此小组.",
+    "dependency_info_extra": "即使您正在使用x64（64位）窗口，也需要x86（32位）版本，因为mod启动器是为x86（32位）窗口构建的。"
 }

@@ -16,5 +16,7 @@
 	"info_update": "The Mod Launcher automatically manages updates, and will notify you when it detects a new version so you can stay up to date.",
 	"info_must_be_running": "You need to have the Mod Launcher running for mods to work within the game, the game will automatically launch the mod launcher if it isn't already running.",
 	"info_problems_update": "If you do face any issues with the Mod Launcher then you should download the latest version from this page.",
-	"info_still_stuck": "If you're still stuck, or have any questions for us, we provide free support via our <0>Discord</0> server which is free to join."
+	"info_still_stuck": "If you're still stuck, or have any questions for us, we provide free support via our <0>Discord</0> server which is free to join.",
+
+	"dependency_info_extra": "You need the x86 (32 bit) version even if you are using x64 (64 bit) windows because the mod launcher is built for x86 (32 bit) windows."
 }
