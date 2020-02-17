@@ -18,5 +18,8 @@
 	"info_problems_update": "If you do face any issues with the Mod Launcher then you should download the latest version from this page.",
 	"info_still_stuck": "If you're still stuck, or have any questions for us, we provide free support via our <0>Discord</0> server which is free to join.",
 
-	"dependency_info_extra": "You need the x86 (32 bit) version even if you are using x64 (64 bit) windows because the mod launcher is built for x86 (32 bit) windows."
+	"dependency_info_extra": "You need the x86 (32 bit) version even if you are using x64 (64 bit) windows because the mod launcher is built for x86 (32 bit) windows.",
+
+	"road_map": "Road Map",
+	"road_map_info": "View our road map and our future plans for the Mod Launcher <0>here</0>."
 }

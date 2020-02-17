@@ -14,5 +14,7 @@
     "info_must_be_running": "Bạn cần chạy Mod Launcher để mod hoạt động trong trò chơi, trò chơi sẽ tự động khởi chạy mod launcher nếu nó chưa chạy.",
     "info_problems_update": "Nếu bạn gặp phải bất kỳ vấn đề nào với Mod Launcher thì bạn nên tải xuống phiên bản mới nhất từ trang này.",
     "info_still_stuck": "Nếu bạn vẫn bị mắc kẹt hoặc có bất kỳ câu hỏi nào cho chúng tôi, chúng tôi sẽ cung cấp hỗ trợ miễn phí qua máy chủ <0>Discord</0> miễn phí để tham gia.",
-    "dependency_info_extra": "Bạn cần phiên bản x86 (32 bit) ngay cả khi bạn đang sử dụng cửa sổ x64 (64 bit) vì trình khởi chạy mod được xây dựng cho cửa sổ x86 (32 bit)."
+    "dependency_info_extra": "Bạn cần phiên bản x86 (32 bit) ngay cả khi bạn đang sử dụng cửa sổ x64 (64 bit) vì trình khởi chạy mod được xây dựng cho cửa sổ x86 (32 bit).",
+    "road_map": "Bản đồ đường bộ",
+    "road_map_info": "Xem bản đồ đường đi của chúng tôi và các kế hoạch tương lai của chúng tôi cho Trình khởi chạy Mod <0>tại đây</ 0>."
 }

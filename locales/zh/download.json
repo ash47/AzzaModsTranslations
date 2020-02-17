@@ -14,5 +14,7 @@
     "info_must_be_running": "您必须保持 Mod Launcher 一直启动，才可以让模组在游戏里发挥作用. 如果还没被启动, 游戏会自动开启 Mod Launcher.",
     "info_problems_update": "如果您对 Mod Launcher 有什么困难, 请在此页下载最新版本.",
     "info_still_stuck": "如果还是有困难之处, 或者有什么问题, 我们给予免费帮助在 <0>Discord</0> 小组里, 您可免费加入此小组.",
-    "dependency_info_extra": "即使您正在使用x64（64位）窗口，也需要x86（32位）版本，因为mod启动器是为x86（32位）窗口构建的。"
+    "dependency_info_extra": "即使您正在使用x64（64位）窗口，也需要x86（32位）版本，因为mod启动器是为x86（32位）窗口构建的。",
+    "road_map": "路线图",
+    "road_map_info": "在<0>此处</0>处查看我们的路线图和Mod发射器的未来计划。"
 }
