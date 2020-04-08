@@ -21,5 +21,6 @@
     "locked_browse_game": "Путь установки может быть изменен только из панели запуска.",
     "game_not_recognised": "Ваш лаунчер не распознает эту игру. Обновите свой лаунчер или попробуйте другую игру.",
     "published_mods": "Published Mods",
-    "first_configure_launcher_key_bindings": "Run the launcher to edit your key bindings."
+    "first_configure_launcher_key_bindings": "Run the launcher to edit your key bindings.",
+    "no_published_mods": "No mods have been published for this game yet. Check back soon..."
 }

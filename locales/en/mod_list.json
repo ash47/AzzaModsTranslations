@@ -12,6 +12,8 @@
 	"published_mods": "Published Mods",
 	"create_mod": "Create Mod",
 
+	"no_published_mods": "No mods have been published for this game yet. Check back soon...",
+
 	"game_ready": "The game is patched and mods can be used.",
 	"launch_game": "Launch Game",
 	"restore_original_files": "Restore Original Files",
