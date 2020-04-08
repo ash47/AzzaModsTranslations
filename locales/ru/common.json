@@ -28,5 +28,6 @@
     "cancel": "Отмена",
     "unauthed_why_here": "Вы не должны быть на этой странице, если вы не авторизованы.",
     "please_wait": "Пожалуйста, подождите...",
-    "navbar_install_update": "Установить обновление"
+    "navbar_install_update": "Установить обновление",
+    "navbar_install_update_wait": "Downloading Update..."
 }

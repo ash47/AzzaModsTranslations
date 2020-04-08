@@ -37,5 +37,6 @@
 
 	"please_wait": "Please wait...",
 
-	"navbar_install_update": "Install Update"
+	"navbar_install_update": "Install Update",
+	"navbar_install_update_wait": "Downloading Update..."
 }
