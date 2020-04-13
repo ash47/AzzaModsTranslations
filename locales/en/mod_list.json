@@ -30,5 +30,10 @@
 	"detect_game": "Detect",
 	"locked_browse_game": "The install path can only be changed from within the launcher.",
 
-	"game_not_recognised": "Your launcher doesn't recognise this game. Update your launcher or try another game."
+	"game_not_recognised": "Your launcher doesn't recognise this game. Update your launcher or try another game.",
+
+	"mod_description": "Description:",
+	"mod_options": "Options Include:",
+	"media_previous": "Previous",
+	"media_next": "Next"
 }

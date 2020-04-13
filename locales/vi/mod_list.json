@@ -22,5 +22,9 @@
     "game_not_recognised": "Trình khởi chạy của bạn không nhận ra trò chơi này. Cập nhật launcher của bạn hoặc thử một trò chơi khác.",
     "published_mods": "Published Mods",
     "first_configure_launcher_key_bindings": "Run the launcher to edit your key bindings.",
-    "no_published_mods": "No mods have been published for this game yet. Check back soon..."
+    "no_published_mods": "No mods have been published for this game yet. Check back soon...",
+    "mod_description": "Description:",
+    "mod_options": "Options Include:",
+    "media_previous": "Previous",
+    "media_next": "Next"
 }
