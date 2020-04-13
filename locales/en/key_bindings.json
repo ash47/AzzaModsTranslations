@@ -20,17 +20,18 @@
     "describe_set": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to '{{selectedOptionAction2}}'.",
     "describe_increase": "Increase the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod by '{{selectedOptionAction2}}'.",
     "describe_decrease": "Decrease the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod by '{{selectedOptionAction2}}'.",
+    "describe_random": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to a random value between '{{selectedOptionAction2}}' and '{{selectedOptionAction3}}'.",
     "describe_invoke": "Press the '{{selectedOption}}' button in the '{{selectedMod}}' mod.",
     "describe_unknown": "Set the '{{selectedOption}}' option in the {{selectedMod}} mod to '{{selectedOptionAction}}'.",
 
     "describe_completely_unknown": "Perform an unknown action.",
 
-    "unknown_mod": "<unknown mod>",
-    "unknown_option": "<unknown option>",
-    "unknown_value": "<unknown value>",
-    "unknown_amount": "<some amount>",
+    "unknown_mod": "[unknown mod]",
+    "unknown_option": "[unknown option]",
+    "unknown_value": "[unknown value]",
+    "unknown_amount": "[some amount]",
 
-    "select_unselected": "<Select>",
+    "select_unselected": "[Select]",
     "select_invoke": "Press Button",
 
     "btn_add_binding": "Add Key Binding",
@@ -61,6 +62,8 @@
     "label_option_name": "Option Name",
     "label_option_action": "Option Action:",
     "label_option_amount": "Amount:",
+    "label_option_random_lower": "Random (lower):",
+    "label_option_random_upper": "Random (upper):",
 
     "option_key_down": "Key Down",
     "option_key_up": "Key Up",
@@ -71,5 +74,6 @@
     "option_turn_off": "Turn Off",
     "option_set_value": "Set The Value",
     "option_increase_value": "Increase The Value",
-    "option_decrease_value": "Decrease The Value"
+    "option_decrease_value": "Decrease The Value",
+    "option_random_value": "Random Value Between"
 }
