@@ -29,5 +29,6 @@
     "unauthed_why_here": "Du bør ikke være på denne siden hvis du ikke er authed.",
     "please_wait": "Vennligst vent...",
     "navbar_install_update": "Installer oppdatering",
-    "navbar_install_update_wait": "Downloading Update..."
+    "navbar_install_update_wait": "Downloading Update...",
+    "help_translate": "Hjelp oss med å oversette"
 }

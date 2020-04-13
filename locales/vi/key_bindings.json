@@ -54,5 +54,9 @@
     "option_increase_value": "Increase The Value",
     "option_decrease_value": "Decrease The Value",
     "btn_add_action": "Add Action",
-    "btn_add_binding": "Add Key Binding"
+    "btn_add_binding": "Add Key Binding",
+    "describe_random": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to a random value between '{{selectedOptionAction2}}' and '{{selectedOptionAction3}}'.",
+    "label_option_random_lower": "Random (lower):",
+    "label_option_random_upper": "Random (upper):",
+    "option_random_value": "Random Value Between"
 }
