@@ -1,11 +1,10 @@
 {
-	"quick_intro_left": "<0></0>Bắt đầu bằng cách chọn trò chơi",
-	"quick_intro_left2": "Chọn một trò chơi mà bạn muốn sửa đổi từ menu bên trái.",
-	"quick_intro_left3": "Tất cả các mod có sẵn cho trò chơi đó sẽ xuất hiện ở màn hình trung tâm.",
-	"quick_intro_left4": "Menu bên có thể được mở và đóng thông qua biểu tượng mũi tên màu xanh.",
-
-	"quick_intro_right": "Kiểm soát các mod của bạn tại đây <0></0>",
-	"quick_intro_right2": "Trình khởi chạy mod có thể được quản lý từ phía bên phải màn hình.",
-
-	"select_a_game": "Chọn một trò chơi trước"
+    "quick_intro_left": "<0></0> Bạn cũng có thể chọn một trò chơi thông qua menu bên trái",
+    "quick_intro_left2": "Chọn một trò chơi mà bạn muốn sửa đổi từ menu bên trái.",
+    "quick_intro_left3": "Tất cả các mod có sẵn cho trò chơi đó sẽ xuất hiện ở màn hình trung tâm.",
+    "quick_intro_left4": "Menu bên có thể được mở và đóng thông qua biểu tượng mũi tên màu xanh.",
+    "quick_intro_right": "Kiểm soát các mod của bạn tại đây <0></0>",
+    "quick_intro_right2": "Trình khởi chạy mod có thể được quản lý từ phía bên phải màn hình.",
+    "select_a_game": "Chọn một trò chơi trước",
+    "pick_a_game": "Pick a game:"
 }

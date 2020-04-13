@@ -1,11 +1,12 @@
 {
-	"quick_intro_left": "<0></0> Start by selecting a game",
-	"quick_intro_left2": "Select a game that you want to mod from the left side menu.",
+	"quick_intro_left": "<0></0> You can also pick a game via the left side menu",
+	"quick_intro_left2": "Select a game that you want to mod.",
 	"quick_intro_left3": "All of the mods that are available for that game will appear in the centre screen.",
 	"quick_intro_left4": "The side menu can be toggled open and closed via the blue arrow icon.",
 
 	"quick_intro_right": "Control your mods here <0></0>",
-	"quick_intro_right2": "The mod launcher can be managed from the right hand side of the screen.",
+	"quick_intro_right2": "The mod launcher can be managed from the right hand side of the screen to change games.",
 
+	"pick_a_game": "Pick a game:",
 	"select_a_game": "Select a game first"
 }

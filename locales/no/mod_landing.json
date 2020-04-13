@@ -1,11 +1,10 @@
 {
-	"quick_intro_left": "<0></0> Start med og velge spill",
-	"quick_intro_left2": "Velg et spill du vil modifisere fra venstre meny.",
-	"quick_intro_left3": "Alle modiene som er tilgjengelige for det spillet, vises på midtskjermen.",
-	"quick_intro_left4": "Sidemenyen kan velges åpen og lukket via det blå pilikonet.",
-
-	"quick_intro_right": "Kontroll mods her <0></0>",
-	"quick_intro_right2": "Mod-lanseringen kan styres fra høyre side av skjermen.",
-
-	"select_a_game": "Velg et spill først"
+    "quick_intro_left": "<0></0> Du kan også velge et spill via venstre meny",
+    "quick_intro_left2": "Velg et spill du vil modifisere fra venstre meny.",
+    "quick_intro_left3": "Alle modiene som er tilgjengelige for det spillet, vises på midtskjermen.",
+    "quick_intro_left4": "Sidemenyen kan velges åpen og lukket via det blå pilikonet.",
+    "quick_intro_right": "Kontroll mods her <0></0>",
+    "quick_intro_right2": "Mod-lanseringen kan styres fra høyre side av skjermen.",
+    "select_a_game": "Velg et spill først",
+    "pick_a_game": "Pick a game:"
 }
