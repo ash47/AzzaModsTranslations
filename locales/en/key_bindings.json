@@ -21,6 +21,9 @@
     "describe_increase": "Increase the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod by '{{selectedOptionAction2}}'.",
     "describe_decrease": "Decrease the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod by '{{selectedOptionAction2}}'.",
     "describe_random": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to a random value between '{{selectedOptionAction2}}' and '{{selectedOptionAction3}}'.",
+    "describe_dropdown_random": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to a random value from the dropdown list.",
+    "describe_dropdown_next": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to the next option in the dropdown.",
+    "describe_dropdown_previous": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to the previous option in the dropdown.",
     "describe_invoke": "Press the '{{selectedOption}}' button in the '{{selectedMod}}' mod.",
     "describe_unknown": "Set the '{{selectedOption}}' option in the {{selectedMod}} mod to '{{selectedOptionAction}}'.",
 
@@ -75,5 +78,9 @@
     "option_set_value": "Set The Value",
     "option_increase_value": "Increase The Value",
     "option_decrease_value": "Decrease The Value",
-    "option_random_value": "Random Value Between"
+    "option_random_value": "Random Value Between",
+
+    "option_dropdown_next": "Next Item",
+    "option_dropdown_previous": "Previous Item",
+    "option_dropdown_random": "Random Item"
 }

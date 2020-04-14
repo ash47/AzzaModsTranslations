@@ -58,5 +58,11 @@
     "describe_random": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to a random value between '{{selectedOptionAction2}}' and '{{selectedOptionAction3}}'.",
     "label_option_random_lower": "Random (lower):",
     "label_option_random_upper": "Random (upper):",
-    "option_random_value": "Random Value Between"
+    "option_random_value": "Random Value Between",
+    "describe_dropdown_random": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to a random value from the dropdown list.",
+    "describe_dropdown_next": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to the next option in the dropdown.",
+    "describe_dropdown_previous": "Set the value of the '{{selectedOption}}' option in the '{{selectedMod}}' mod to the previous option in the dropdown.",
+    "option_dropdown_next": "Next Item",
+    "option_dropdown_previous": "Previous Item",
+    "option_dropdown_random": "Random Item"
 }
