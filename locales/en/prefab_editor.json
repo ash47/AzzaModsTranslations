@@ -1,0 +1,4 @@
+{
+    "prefab_header": "Prefab Editor",
+    "prefab_not_in_launcher": "The prefab editor is only available within the launcher itself. Please access this functionality inside of the mod launcher. The prefab editor allows you to edit prefabs within the game, and essntially create your own mods."
+}
